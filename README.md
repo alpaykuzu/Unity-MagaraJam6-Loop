@@ -5,5 +5,5 @@ Oyunumuz ilk 50'ye girmiştir.
 
 | İsim | GitHub Profili |
 |------|----------------|
-| Alpay Kuzu | [alpaykuzu]([https://github.com/JohnDoe](https://github.com/alpaykuzu)) |
-| Uğur oğuzhan Obuz | [Cytherr1]([https://github.com/JaneSmith](https://github.com/Cytherr1)) |
+| Alpay Kuzu | ([https://github.com/JohnDoe](https://github.com/alpaykuzu)) |
+| Uğur oğuzhan Obuz | ([https://github.com/JaneSmith](https://github.com/Cytherr1)) |
