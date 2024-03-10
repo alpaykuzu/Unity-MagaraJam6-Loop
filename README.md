@@ -1,4 +1,4 @@
-Oyunumuz ilk 50'ye girmiştir.
+## Oyunumuz ilk 50'ye girmiştir.
 
 
 ## Oyun Yapımcıları
